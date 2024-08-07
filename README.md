@@ -1,5 +1,5 @@
 # Tetris_game
-- Player control WSAD
+- Player control: W S A D
 - Exit - Esc
 
   ![Image alt](https://github.com/Alex-0024/Tetris_game/blob/main/Win.png)
