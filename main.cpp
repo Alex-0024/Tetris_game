@@ -236,7 +236,7 @@ public:
         field.PutScore(screen.scr);
         screen.Show();
     }
-     void ShowYouWin()
+    void ShowYouWin()
     {
         cout << "\t      * * *** * *" << endl;
         cout << "\t      * * * * * *" << endl;
